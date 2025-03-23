@@ -1,0 +1,7 @@
+C:\Users\Mahesh\DevOpsDemos\DevOpsDemos\HelloWorldApp\HelloWorldApp.Web\bin\Release\net9.0\publish\HelloWorldApp.Web.exe
+C:\Users\Mahesh\DevOpsDemos\DevOpsDemos\HelloWorldApp\HelloWorldApp.Web\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Mahesh\DevOpsDemos\DevOpsDemos\HelloWorldApp\HelloWorldApp.Web\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Mahesh\DevOpsDemos\DevOpsDemos\HelloWorldApp\HelloWorldApp.Web\bin\Release\net9.0\publish\HelloWorldApp.Web.dll
+C:\Users\Mahesh\DevOpsDemos\DevOpsDemos\HelloWorldApp\HelloWorldApp.Web\bin\Release\net9.0\publish\HelloWorldApp.Web.deps.json
+C:\Users\Mahesh\DevOpsDemos\DevOpsDemos\HelloWorldApp\HelloWorldApp.Web\bin\Release\net9.0\publish\HelloWorldApp.Web.runtimeconfig.json
+C:\Users\Mahesh\DevOpsDemos\DevOpsDemos\HelloWorldApp\HelloWorldApp.Web\bin\Release\net9.0\publish\HelloWorldApp.Web.pdb
